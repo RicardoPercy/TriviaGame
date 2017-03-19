@@ -1,0 +1,19 @@
+body {
+	background-image: url("http://i.imgur.com/SyF3jSp.jpg");
+}
+.jumbotron {
+	background-color: #ffff99;
+	color: #0000FF;
+	font-weight: 600;
+	width: 400px;
+	margin-left: 100px;
+	padding: 20px;
+	height: 300px;
+}
+.btn {
+	margin-top: 30px;
+	background-color: #FFC0CB;
+	color: black;
+	margin-left: 100px;
+	width: 100px;
+}
