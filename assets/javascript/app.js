@@ -1,9 +1,30 @@
-$(document).ready(function () {
+$(document).ready(function(){
 
-
-$( "#startbtn" ).click(function() {
-  alert("Hello");
-  console.log(alert);
-});	
-
+	$("hide").click(function(){
+		$("p").hide();
+	});
+	// $("button").click(function(){
+	
+	
 });
+
+
+
+
+
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
